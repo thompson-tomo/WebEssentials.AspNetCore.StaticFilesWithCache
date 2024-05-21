@@ -12,7 +12,8 @@
     <Product>WebEssentials.AspNetCore.StaticFilesWithCache</Product>
     <PackageIconUrl>https://raw.githubusercontent.com/madskristensen/WebEssentials.AspNetCore.StaticFilesWithCache/master/art/logo.png</PackageIconUrl>
     <PackageProjectUrl>https://github.com/madskristensen/WebEssentials.AspNetCore.StaticFilesWithCache</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/madskristensen/WebEssentials.AspNetCore.StaticFilesWithCache/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/madskristensen/WebEssentials.AspNetCore.StaticFilesWithCache</RepositoryUrl>
   </PropertyGroup>
 
